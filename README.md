@@ -84,3 +84,17 @@ This app currently has support for the following apps:
 This projects uses the following external services:
 
 - [selfh.st](https://selfh.st/icons/), used for automatically retreving icons
+
+## Planned widget additions
+
+The following are planned to be added in the future:
+
+- Calendar
+- Weather
+- Live Twitch channels
+- GitHub releases
+- Pi-Hole
+- Seerr
+- Jellyfin
+- Uptime Kuma
+- and many more!
